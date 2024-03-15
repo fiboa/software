@@ -1,0 +1,21 @@
+# fiboa Software
+
+This repository provides you with all information about [existing software](#list-of-software).
+
+## List of software
+
+| Title | Description | Keywords |
+| ----- | ----------- | -------- |
+{%- for e in software %}
+| [{{e.title}}]({{e.url}}) | {{e.description}} | {{ e.topics|join(', ') }} |
+{%- endfor %}
+
+* **Last updated:** {{updated}}
+* **Count:** {{count}}
+
+## Add your software
+
+Add your software to the list above if needed.
+All software hosted in the fiboa organization will be added automatically each night.
+Repositories get added if they have either the "tooling" or "software" topic assigned.
+You can add external/community software to the list above by editing the [config file](https://github.com/fiboa/fiboa/edit/main/python/config.py) and creating a PR from it.

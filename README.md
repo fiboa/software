@@ -9,11 +9,7 @@ This repository provides you with all information about [existing software](#lis
 | [Cli](https://github.com/fiboa/cli) | Validator for the GeoParquet encoding | python |
 | [Geojson Validator](https://github.com/fiboa/geojson-validator) | Validator for the GeoJSON encoding | javascript |
 
-<<<<<<< HEAD
-* **Last updated:** Mar 15 2024, 22:55 
-=======
-* **Last updated:** Mar 15 2024, 22:56 
->>>>>>> origin/main
+* **Last updated:** Mar 15 2024, 22:57 
 * **Count:** 2
 
 ## Add your software

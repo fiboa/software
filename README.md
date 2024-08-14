@@ -7,9 +7,9 @@ This repository provides you with all information about [existing software](#lis
 | Title | Description | Keywords |
 | ----- | ----------- | -------- |
 | [Cli](https://github.com/fiboa/cli) | CLI for fiboa (validation, inspection, schema and file creation, etc.) | python |
-| [Geojson Validator](https://github.com/fiboa/geojson-validator) | Validator for the GeoJSON encoding | javascript |
+| [Geojson Validator](https://github.com/fiboa/geojson-validator) | **DEPRECATED.** Validator for the GeoJSON encoding | javascript |
 
-* **Last updated:** Aug 13 2024, 00:32 
+* **Last updated:** Aug 14 2024, 00:31 
 * **Count:** 2
 
 ## Add your software

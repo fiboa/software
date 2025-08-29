@@ -1,20 +1,4 @@
 # fiboa Software
 
-This repository provides you with all information about [existing software](#list-of-software).
-
-## List of software
-
-| Title | Description | Keywords |
-| ----- | ----------- | -------- |
-| [Cli](https://github.com/fiboa/cli) | CLI for fiboa (validation, inspection, schema and file creation, etc.) | python |
-| [Geojson Validator](https://github.com/fiboa/geojson-validator) | **DEPRECATED.** Validator for the GeoJSON encoding | javascript |
-
-* **Last updated:** Aug 29 2025, 00:39 
-* **Count:** 2
-
-## Add your software
-
-Add your software to the list above if needed.
-All software hosted in the fiboa organization will be added automatically each night.
-Repositories get added if they have either the "tooling" or "software" topic assigned.
-You can add external/community software to the list above by editing the [config file](https://github.com/fiboa/software/edit/main/config.yaml) and creating a PR from it.
+- For a list of software, please visit [fiboa.org/software](https://fiboa.org/software).
+- For a list of proposed tooling, please see the [issue tracker](https://github.com/fiboa/software/issues).
